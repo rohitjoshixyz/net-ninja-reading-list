@@ -1,5 +1,4 @@
 import React, { createContext, useReducer, useEffect } from 'react';
-import uuid from 'uuid/v1';
 import { bookReducer } from '../reducers/bookReducer';
 
 export const BookContext = createContext();
@@ -9,7 +8,7 @@ const BookContextProvider = (props) => {
     const localData = localStorage.getItem("books");
     return localData ? JSON.parse(localData) : []
   });
-  
+
   useEffect(()=> {
     localStorage.setItem("books", JSON.stringify(books));
   })
