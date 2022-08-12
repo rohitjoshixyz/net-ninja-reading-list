@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/net-ninja-reading-list/static/css/main.21c7d1f3.css",
+    "main.js": "/net-ninja-reading-list/static/js/main.3a3df80b.js",
+    "static/js/787.3075f03b.chunk.js": "/net-ninja-reading-list/static/js/787.3075f03b.chunk.js",
+    "index.html": "/net-ninja-reading-list/index.html",
+    "main.21c7d1f3.css.map": "/net-ninja-reading-list/static/css/main.21c7d1f3.css.map",
+    "main.3a3df80b.js.map": "/net-ninja-reading-list/static/js/main.3a3df80b.js.map",
+    "787.3075f03b.chunk.js.map": "/net-ninja-reading-list/static/js/787.3075f03b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c7d1f3.css",
+    "static/js/main.3a3df80b.js"
+  ]
+}
